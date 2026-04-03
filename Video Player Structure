@@ -1,0 +1,11 @@
+```
+video-player/
+├── index.html          ✅ Advanced Player
+├── style.css           ✅ YouTube-like Controls
+├── script.js           ✅ Playback + Subtitles
+├── README.md           ✅ ရှိပြီ
+├── README.mm.md        ✅ မြန်မာ
+└── videos/
+    ├── sample.mp4      ✅ Demo Videos
+    └── subtitles/      ✅ .vtt files
+```
